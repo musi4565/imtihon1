@@ -1,0 +1,66 @@
+h2{
+    background-color: skyblue;
+    color: rgb(10, 10, 92);
+    text-align: center;
+    border-radius: 20px;
+    border: 3px solid red;
+}
+i{
+    color: rgb(139, 15, 15);
+}
+h3{
+    color: green;
+}
+.t{
+    color: green;
+    background-color: yellow;
+    text-align: center;
+}
+div{
+    background-color: black;
+    text-align: center;
+    border-radius: 10px;
+}
+.k{
+    color: green;
+}
+.row{
+    width: 1250px;
+    height: 25px;
+}
+button{
+    width: 270px;
+    background-color:rgb(15, 126, 166);
+    color: white;
+    border: 1px solid rgb(15, 126, 166);
+    height: 25px;
+}
+.i{
+    background-color: green;
+    color: white;
+}
+.m{
+    background-color: blue;
+    color: white;
+    width: 1000px;
+}
+.g{
+    background-color: red;
+    color: white;
+    width: 200px;
+}
+.b{
+    background-color: black;
+    color: white;
+
+}
+table,
+thead,
+tr,
+th,
+tbody,
+td{
+    border: 1px solid gray;
+    border-collapse: collapse;
+    text-align: center;
+}
